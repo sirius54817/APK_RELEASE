@@ -31,3 +31,5 @@ Have fun releasing — and keep builds reproducible!
 ---
 
 Generated on: 2025-09-08
+
+Download releases and tags: [click here to download](https://github.com/sirius54817/APK_RELEASE/tags)
